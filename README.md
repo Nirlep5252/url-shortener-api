@@ -26,6 +26,6 @@
 
 1. Install [Python3](https://www.python.org/downloads/)
 2. Create a virtual environment (Optional): `python3 -m venv venv`
-3. Activate the virtual environment.
+3. Activate the virtual environment (Optional).
 4. Install Python packages: `python3 -m pip install -r requirements.txt`
 5. Run `uvicorn src.main:app --reload`
